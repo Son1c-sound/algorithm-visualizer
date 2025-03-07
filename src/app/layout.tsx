@@ -20,6 +20,7 @@ export const metadata: Metadata = {
 
 const algorithms = [
   { name: "Contains Duplicate", path: "/contains-duplicate" },
+  { name: "Valid anagram", path: "/valid-anagram" },
   // Add more algorithms here as you solve them
   // { name: "Two Sum", path: "/two-sum" },
   // { name: "Valid Anagram", path: "/valid-anagram" },
